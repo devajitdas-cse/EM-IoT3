@@ -139,28 +139,4 @@ The repository is intended for research and educational use related to:
 - Machine-learning-based signal classification
 - MQTT activity and abnormal-condition analysis
 
-## Citation
 
-If you use this repository in academic work, please cite the associated paper once its final bibliographic details are available.
-
-```text
-Devajit Das and Debojit Boro,
-"Machine Learning Based Electromagnetic Side-Channel Activity Classification for Edge IoT Devices,"
-2026.
-```
-
-The citation above should be updated with the final conference proceedings, volume, page numbers, and DOI when available.
-
-## Authors
-
-**Devajit Das**  
-Department of Computer Science and Engineering  
-Tezpur University, Assam, India
-
-**Debojit Boro**  
-Department of Computer Science and Engineering  
-Tezpur University, Assam, India
-
-## Notes
-
-The results reported in the associated study were obtained under a controlled laboratory setup using a single Raspberry Pi 4 Model B and a fixed EM acquisition configuration. Performance across different devices, probe positions, acquisition sessions, or environmental conditions was not established in the reported experiment.
